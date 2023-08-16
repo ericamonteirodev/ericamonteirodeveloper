@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hey, there! 🤭
 
-<!--
-**ericamonteirodeveloper/ericamonteirodeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I'm a back-end developer with a passion for crafting elegant solutions that power the digital world. I thrive on learning new technologies and honing my skills to build robust and efficient applications.
+</p>
 
-Here are some ideas to get you started:
+## Technologies: 
+🔧 Tech Stack: JavaScript, Node.js, a touch of PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+
+🌐 Version Control: Git
+
+🚀 Learning: TypeScript
+
+🖥️ OS: Windows, Linux
+
+## Academic Journey
+👩‍🎓 Studying: Software Analysis and Development - 1/5
+
+<hr/>
+
+### 🎮 Hobbies 🎶
+Beyond the coding universe, I find joy in various hobbies. Exploring diverse musical tunes, losing myself in captivating books, enjoying movies that transport me to different worlds, and diving into immersive video games.
+
+
+## You can find me on:
+* [GitHub](https://github.com/ericamonteirodeveloper) 
+* [LinkedIn](https://www.linkedin.com/in/ericamonteirodeveloper)
+
+<hr/>
+
+Looking forward to building the future together! 🚀🌟
+
+
+
+
+
+
